@@ -1,8 +1,12 @@
-Erik Muro
-CS 418 MP3
-3 Credits 
+Description: 
+Loading the Utah teapot from the attached triangle mesh file and render it using the following techniques:
 
-Xcode Project Teapot
+	perspective,
+	hidden surfaces (via the z-buffer),
+	shading using the OpenGL built-in Phong surface reflection model,
+	texture mapping, and
+	environment mapping.
+	
 
 Video Link: https://www.youtube.com/watch?v=jY4tyv4Opmo&feature=youtu.be 
 
